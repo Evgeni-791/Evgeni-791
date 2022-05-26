@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" href="favicon.io.png">
+  <title>Продвижение сайта.</title> 
+  <link rel="stylesheet" type="text/css" href="style.css"
+   
+</head>
+  <h1> Заказать продвижение.</h1>
+  <p><b>Текст,текст,текст,текст</b></p>
+  <br>
+   <h2>Заказать SEO.</h2>
+  <p>Текст,текст,текст,текст.</p>
+  <br>
+  <h2>Заказать продвижение в Яндекс Директ.</h2>
+  <p>Текст,текст,текст,текст.</p>
+  <br>
+  <h2>Заказать продвижение вконтаке.</h2>
+  <p>Текст,текст,текст,текст.</p>
+  
+</body>
+</html>

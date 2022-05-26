@@ -1,0 +1,11 @@
+h1 {color:brown}
+h1 {text-align:center}
+h1 {text-decoration-line: underline;}
+h1 {background-color: aqua;}
+h1 {border-style: solid;}
+  p{color:blue}
+p {text-align:center }
+h2{color:brown}
+h2 {text-align:center}
+h2 {background-color:aquamarine;}
+h2 {border-style:dotted ;}

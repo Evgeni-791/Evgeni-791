@@ -1,0 +1,10 @@
+.box{ background-color: white}
+.box{height: 400px;}
+.box{width:300px}
+.box{border-style:solid}
+.box{border-color: gray;}
+.box{border-width: 2px;}
+.box{padding: 20px 30px;}
+.box{margin-left: 25%;}
+.box{margin-top: 25%;}
+.box{transform: translate(50%,-50%);}

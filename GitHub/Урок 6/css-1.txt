@@ -1,0 +1,16 @@
+.box{ background-color: white}
+.box{height: 50px;}
+.box{width: 1180px;}
+.box{border-style:solid}
+.box{border-color: gray;}
+.box{border-width: 2px;}
+.box{padding:20px 20px}
+.box{position:fixed;}
+p{margin-top: 100px;}
+section{padding-left: 100px;}
+Text{padding-left:  600px;}
+header{background-color:black;}
+ul{list-style:none;margin: 0;padding: 20px;}
+a{ font: size 40px;padding: 20px; color: white;text-decoration: none;}
+li{ display:inline}
+.box{background-color: red;}
