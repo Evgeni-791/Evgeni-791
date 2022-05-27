@@ -1,0 +1,26 @@
+{
+	
+	 "Dokument 1": {
+	 	"scope": "html",
+	 	"prefix": "doc",
+	 	"body": [
+			"a:hover,"
+      "a:fokus,"
+      "a:aktive{"
+      "text-decoration:none},"
+      "button:focus,"
+      "imput:focus,"
+      "a:focus,"
+      "textaria:focus{"
+      "outline:none;}"
+      "h1,"
+      "h2,"
+      "h3,"
+      "h4,"
+      "h5,"
+      "h6,"
+      "p{margin:0}"
+	 	],
+	 	"description": "Важный документ"
+	 }
+}
