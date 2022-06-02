@@ -1,0 +1,53 @@
+<div class="header"></div>
+  <div class="menu"></div>
+  <div class="content"></div>
+  .header{width: 95%;
+  height: 221px;
+  background-color: #fff794;
+display: inline-block;
+margin-top: 2%;}
+
+.menu{display: inline-block;
+  width: 25%;
+  height: 500px;
+  background-color: #94ff97;
+margin-right: 20px;
+margin-top: 2%;}
+
+.content{display: inline-block; 
+  margin-left: -4px;
+  width: 65%;
+  height:500px;
+   background-color: #ab94ff;
+  margin-top: 2%;}
+
+.bady{text-align: center;}
+@media (max-width: 600px)  {}
+
+.header{font-size: 20px;line-height: 1.5;margin-top: 150px;}
+
+<div class="col-lg-5">
+    <div class="form">
+    <p class="form-header"> email</p>
+    <form action="#">
+    <input type="text" class="form-control-lg"placeholder="jonsmitt@gmail.com">
+    <div class="form">
+      <p class="form-header">password:</p>
+    <input type="text" class="form-control-lg"placeholder="">
+    <div class="form">
+      <p class="form-header">password:</p>
+    <input type="text" class="form-control-lg"placeholder="">
+    </div>
+    <button type="button" class="btn btn-primary btn-lg btn-block form-btn">Заказать</button>
+    </form>
+    </div>
+    </div>
+     .form{margin-top: 150px;}   
+ .form-header{font-size: 20px;font-weight: 900;}
+ .form{border: 5px solid blue;padding: 35px 70px;}
+ .form-btn{margin: 8px 15px;}
+.form input{margin-bottom: 12px;border: solid blue;margin-right: 20px;}
+.form-header{margin-bottom: 20px;}
+.section-header{font-size: 20px;font-weight: 900;margin-top: 50px;} 
+.feature{margin-top: 60px;}  
+.contacts{margin-top: 100px;}
