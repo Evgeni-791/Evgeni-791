@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<link>
+  
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+   <link rel="stylesheet" type="text/css" href="style.css" 
+  <meta charset="UTF-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" href="https://cdn-icons-png.flaticon.com/128/5759/5759505.png">
+  <link rel="stylesheet" type="text/css" href="style.css" 
+  <!-- Latest compiled and minified CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <title>Штукатурка</title>
+</head>
+<body>
+<main>
+  <div class="container">
+    <div class="header">
+
+   <div class="row">
+
+        <div class="col-md-3">
+          <div class="logo">
+            <img crs="img/logo.png" alt="Гипсолит штукатурка стен">
+          </div>
+        </div>
+   
+    
+        <div class="col-md-2 col-md-offset-4">
+       <a class="phone-link" href="#">+74957710508</a>
+        </div>
+
+        <div class="col-md-3">
+          <div class="wrap">
+            <div class="wrap-block">
+          <button class="button header-btn">Получить консультацию
+
+          </button>
+          
+          
+            </div>
+          </div>
+        </div>
+    </div>
+
+  </div>
+  </div>
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+</body>
+
+</html>
+
+Less
+
+/*colors*/
+@btn-color:#fcd303;
+@icons-color:#46b814;
+@text:#1a1820;
+@danger:#ff0000;
+@bg-light:#f5f5f5;
+@liht: #fff;
+
+/*basic setting*/
+html{font-size: 10px;}
+
+/*typographi*/
+section{padding: 10rem 0;}
+
+/*main*/
+main{padding: 4 rem 0}
+.button{background-color:@btn-color; color:@liht;padding: 1rem 3rem;border-radius: 8px;text-transform: uppercase; }
+.phone-link{display: inline-block; color:@text;font-weight: 900;font-size: 2rem;height: 7rem;line-height: 7rem;}
+.header{height: 7rem;}
+.wrap{display: table;width: 100%;height: 7rem;}
+&-block{display: table-cell;vertical-align: middle;}
